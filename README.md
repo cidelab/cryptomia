@@ -1,2 +1,2 @@
-# criptomia
-criptocurrency for event ticketing
+# CRYPTOMIA
+cryptoticket for event management
