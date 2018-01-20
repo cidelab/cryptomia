@@ -4,7 +4,7 @@ header{
     font-family: 'expressway';
     border: none;
     position: relative;
-	padding: 10px;
+	padding: 5px;
     margin-bottom: 0px;
 }
 
@@ -20,23 +20,18 @@ h1 {
 	font-family: "Arial";
 }
 
-button {
-    border: 3px solid red;
+table {
+    font-family: arial, sans-serif;
     border-collapse: collapse;
-    padding: 16px;
-    background-color: blue;
-    width: 25%;
-    margin: 0px -1px 0px -1px display: inline;
+    width: 100%;
 }
 
-.content {
-    display: none;
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
 }
 
-.bttn + .content {
-    display: none;
-}
-
-.bttn:hover + .content {
-    display: block;
+tr:nth-child(even) {
+    background-color: #dddddd;
 }
