@@ -19,3 +19,24 @@ h1 {
       position: relative;
 	font-family: "Arial";
 }
+
+button {
+    border: 3px solid red;
+    border-collapse: collapse;
+    padding: 16px;
+    background-color: blue;
+    width: 25%;
+    margin: 0px -1px 0px -1px display: inline;
+}
+
+.content {
+    display: none;
+}
+
+.bttn + .content {
+    display: none;
+}
+
+.bttn:hover + .content {
+    display: block;
+}
