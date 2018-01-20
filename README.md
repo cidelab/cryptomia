@@ -1,2 +1,1 @@
-# CRYPTOMIA
-cryptoticket for event management at FCB
+# demo_blockchain
