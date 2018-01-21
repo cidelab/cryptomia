@@ -3094,9 +3094,9 @@
 
                     ],
                     "start" : 252,
-                    "duration" : 168,
+                    "duration" : 198,
                     "mediaStart" : 0,
-                    "mediaDuration" : 168,
+                    "mediaDuration" : 198,
                     "scalar" : 1,
                     "metadata" : {
                       "WinSubProjectDisplayName" : "",
@@ -3227,9 +3227,9 @@
 
                     ],
                     "start" : 252,
-                    "duration" : 168,
+                    "duration" : 198,
                     "mediaStart" : 0,
-                    "mediaDuration" : 168,
+                    "mediaDuration" : 198,
                     "scalar" : 1,
                     "metadata" : {
                       "WinSubProjectDisplayName" : "",
@@ -3564,8 +3564,8 @@
     "backgroundColor" : [ 255, 255, 255, 255]
   },
   "metadata" : {
-    "AutoSaveFile" : "C:\\Users\\Carlos\\AppData\\Local\\TechSmith\\Camtasia Studio\\9.0\\Auto-Saves\\giftAnimation492f523.autosave.tscproj",
-    "CanvasZoom" : 45,
+    "AutoSaveFile" : "C:\\Users\\Carlos\\AppData\\Local\\TechSmith\\Camtasia Studio\\9.0\\Auto-Saves\\giftAnimation4c0bd79.autosave.tscproj",
+    "CanvasZoom" : 21,
     "Date" : "2018-01-21 10:13:36 AM",
     "Fit" : 1,
     "IsAutoSave" : "0",
